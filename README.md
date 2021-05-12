@@ -1,7 +1,7 @@
 # 2019-8-_Baseball-Tableau-Story-Project
 
 ## Description:
-This project is part of Advanced Data Analysis Nanodegree with Udacity. 
+This project is a part of Advanced Data Analysis Nanodegree with Udacity. 
 
 It includes Creating a visualization that shows differences among the performance of the baseball players for Baseball data set containing 1,157 baseball players.
 
