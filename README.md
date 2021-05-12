@@ -11,7 +11,11 @@ the Tableau Story includes 12 slides:
 - The next 4 slides (6-9) about Home Runs and its positive relation to weight and left handed players and not clear relation with height.
 - The last three slides (10-12) contain a conclusion for the case study which states that Left handed, 70-74 inch tall and 180-199 Lb Weight are the best on average.
 
+You may get back to Baseball Project_Write-up.pdf for further details.
+
+
+
 ## Tools or Programming languages used:
 - Tableau
-- Excel
+
 
